@@ -1,0 +1,10 @@
+{
+  "Name": "Running Costs Stamina",
+  "Author": "Mangupix",
+  "Version": "1.0.0",
+  "Description": "Running now drains your stamina.",
+  "UniqueID": "Mangupix.RunningCostsStamina",
+  "EntryDll": "RunningCostsStamina.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:28463" ]
+}
